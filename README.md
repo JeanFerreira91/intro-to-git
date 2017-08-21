@@ -17,3 +17,21 @@
 # Removing files
 
 # Ignoring files
+
+
+===========================================
+
+# Git Branches
+
+- Listing all branches
+    - git branch
+
+- Adding a branch
+    - git checkout <BranchName>
+
+- Changing branches
+    - git checkout <BranchName>
+
+- Merging a branch
+
+- Removing a branch
